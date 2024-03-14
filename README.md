@@ -10,7 +10,7 @@ However, they do not have an in-house data analytics team to provide them with t
 insights. Their revenue management team had decided to hire a 3rd party service provider to
 provide them with insights from their historical data.
 
-Case Studies
+Case Studies                       
 ●Filters by properties, city, status, platform, month and week.   
 ●Revenue, Occupancy % and Average rating cards.        
 ●Split by City, Property by key metrics.                
